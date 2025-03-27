@@ -18,7 +18,7 @@ python3.pkgs.buildPythonApplication {
     owner = "Amulet-Team";
     repo = "Amulet-Map-Editor";
     tag = version;
-    hash = "sha256-6HwASoAi4amPTzAFnUTxn2PCzBRKi0wFXcTN1l10O8U=";
+    hash = "sha256-BjOV19YoP0NdgpGUsuE7Jo24m5ON+BEcZehoPns4iBY=";
   };
 
   nativeBuildInputs = [ wrapGAppsHook3 ];
